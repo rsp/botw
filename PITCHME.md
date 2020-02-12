@@ -26,6 +26,15 @@ http://info.cern.ch/
 
 ---
 
+# ActiveX
+
+\* Born 1996
+† Died 2015
+
+<small>(Microsoft Edge released in 2015 with no ActiveX support)</small>
+
+---
+
 # Java Applets
 
 \* Born 1995
