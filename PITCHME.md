@@ -99,6 +99,60 @@ https://en.wikipedia.org/wiki/Microsoft_Silverlight
 
 ---
 
+Languages compiled to WebAssembly
+
+.Net,
+AssemblyScript,
+Astro,
+Brainfuck,
+C,
+C#,
+C++,
+Clean,
+D,
+Elixir,
+F#,
+Faust,
+Forest,
+Forth,
+Go,
+Grain,
+Haskell,
+Java,
+JavaScript,
+Julia,
+Idris,
+Kotlin/Native,
+Kou,
+Lua,
+Lys,
+Nim,
+Ocaml,
+Perl,
+PHP,
+Plorth,
+Poetry,
+Python,
+Prolog,
+Ruby,
+Rust,
+Scheme,
+Scopes,
+Speedy.js,
+Swift,
+Turboscript,
+TypeScript,
+Wah,
+Walt,
+Wam,
+Wracket,
+Xlang,
+Zig
+
+https://github.com/appcypher/awesome-wasm-langs
+
+---
+
 # Bonus
 
 Deno library for cryptographically strong random data:
