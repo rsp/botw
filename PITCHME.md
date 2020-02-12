@@ -64,6 +64,33 @@ https://en.wikipedia.org/wiki/HTML
 
 ---
 
+# HTML
+
+- 1991 - Born
+- 1993 - HTML 1.0
+- 1994 - HTML 2.0
+- 1995 - Html 3.0
+- 1997 - HTML 4.0
+- 1999 - HTML 4.01
+- 2012 - HTML5
+- 2020 Alive and well
+
+https://en.wikipedia.org/wiki/HTML
+
+---
+
+# JavaScript
+
+- 1995 - Born
+- 1997 - ES1
+- 1998 - ES2
+- 1999 - ES3
+- 2009 - ES5
+- 2015 - ES6
+- 2017 - ES 2017
+
+---
+
 `[1, 1, 1].map(parseInt)`
 
 ---
