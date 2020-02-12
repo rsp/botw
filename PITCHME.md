@@ -76,21 +76,25 @@ https://en.wikipedia.org/wiki/Microsoft_Silverlight
 
 # CSS
 
+- 1994 - Born
+
 ---
 
 # WebAssembly
 
 - 2015 - Born
-- 2017 - Universal support
+- 2017 - Universal support in browsers
 - 2019 - WASI announced
 
 ---
 
 # Bet on the Web
 
----
-
-`[1, 1, 1].map(parseInt)`
+- https://www.w3.org/
+- https://github.com/tc39
+- https://webassembly.org/
+- https://wasi.dev/
+- https://bytecodealliance.org/
 
 ---
 
