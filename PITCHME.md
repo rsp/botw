@@ -41,6 +41,7 @@ https://en.wikipedia.org/wiki/Adobe_Flash
 # Silverlight
 
 \* Born 2007
+
 † Died 2012
 
 <small>(in 2012 Microsoft deprecated Silverlight)</small>
