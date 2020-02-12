@@ -38,6 +38,32 @@ https://en.wikipedia.org/wiki/Adobe_Flash
 
 ---
 
+# Silverlight
+
+\* Born 2007
+† Died 2012
+
+(in 2012 Microsoft deprecated Silverlight)
+
+https://en.wikipedia.org/wiki/Microsoft_Silverlight
+
+---
+
+# HTML
+
+- Born 1991
+- 1993 - HTML 1.0
+- 1994 - HTML 2.0
+- 1995 - Html 3.0
+- 1997 - HTML 4.0
+- 1999 - HTML 4.01
+- 2012 - HTML5
+- 2020 Alive and well
+
+https://en.wikipedia.org/wiki/HTML
+
+---
+
 `[1, 1, 1].map(parseInt)`
 
 ---
