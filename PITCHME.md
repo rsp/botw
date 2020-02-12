@@ -16,6 +16,16 @@ You may know me from Stack Overflow
 
 ---
 
+# The Web
+
+- 1990 - First browser
+
+First website:
+
+http://info.cern.ch/
+
+---
+
 # Java Applets
 
 \* Born 1995
