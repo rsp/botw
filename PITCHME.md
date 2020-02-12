@@ -18,11 +18,23 @@ You may know me from Stack Overflow
 
 # Java Applets
 
-https://en.wikipedia.org/wiki/Java_applet
-
-* Born 1995
+\* Born 1995
 
 † Died 2018
+
+https://en.wikipedia.org/wiki/Java_applet
+
+---
+
+# Flash
+
+\* Born 1996
+
+† Slowly dying since at least 2017
+
+(in 2017 Adobe announced 2020 as the end-of-life of Flash)
+
+https://en.wikipedia.org/wiki/Adobe_Flash
 
 ---
 
