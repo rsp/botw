@@ -32,7 +32,7 @@ https://en.wikipedia.org/wiki/Java_applet
 
 † Slowly dying since at least 2017
 
-(in 2017 Adobe announced 2020 as the end-of-life of Flash)
+<small>(in 2017 Adobe announced 2020 as the end-of-life of Flash)</small>
 
 https://en.wikipedia.org/wiki/Adobe_Flash
 
@@ -43,24 +43,9 @@ https://en.wikipedia.org/wiki/Adobe_Flash
 \* Born 2007
 † Died 2012
 
-(in 2012 Microsoft deprecated Silverlight)
+<small>(in 2012 Microsoft deprecated Silverlight)</small>
 
 https://en.wikipedia.org/wiki/Microsoft_Silverlight
-
----
-
-# HTML
-
-- Born 1991
-- 1993 - HTML 1.0
-- 1994 - HTML 2.0
-- 1995 - Html 3.0
-- 1997 - HTML 4.0
-- 1999 - HTML 4.01
-- 2012 - HTML5
-- 2020 Alive and well
-
-https://en.wikipedia.org/wiki/HTML
 
 ---
 
@@ -75,8 +60,6 @@ https://en.wikipedia.org/wiki/HTML
 - 2012 - HTML5
 - 2020 Alive and well
 
-https://en.wikipedia.org/wiki/HTML
-
 ---
 
 # JavaScript
@@ -88,6 +71,22 @@ https://en.wikipedia.org/wiki/HTML
 - 2009 - ES5
 - 2015 - ES6
 - 2017 - ES 2017
+
+---
+
+# CSS
+
+---
+
+# WebAssembly
+
+- 2015 - Born
+- 2017 - Universal support
+- 2019 - WASI announced
+
+---
+
+# Bet on the Web
 
 ---
 
