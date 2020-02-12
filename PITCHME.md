@@ -178,6 +178,7 @@ It uses the Web Crypto API.
 # Bet on the Web
 
 - https://www.w3.org/
+- https://whatwg.org/
 - https://github.com/tc39
 - https://webassembly.org/
 - https://wasi.dev/
