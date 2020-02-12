@@ -99,6 +99,16 @@ https://en.wikipedia.org/wiki/Microsoft_Silverlight
 
 ---
 
+# Bonus
+
+Deno library for cryptographically strong random data:
+
+https://deno.land/x/rand/
+
+It uses the Web Crypto API.
+
+---
+
 # Bet on the Web
 
 - https://www.w3.org/
